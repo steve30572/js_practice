@@ -2,7 +2,7 @@
 
 const lib=require("./lib");
 if(process.argv.length<=3){
-    console.log("Insufficient parameter!");
+    console.log("Insufficient parameters!");
     process.exit(1);
 }
 let command=process.argv[2];
