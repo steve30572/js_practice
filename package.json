@@ -1,0 +1,25 @@
+{
+  "name": "skku-stat_14804",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steve30572/js_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steve30572/js_practice/issues"
+  },
+  "homepage": "https://github.com/steve30572/js_practice#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
